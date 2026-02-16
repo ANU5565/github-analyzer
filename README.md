@@ -105,7 +105,3 @@ If you like this project:
 👉 Contribute ideas  
 
 Every bit helps grow the project!
-
----
-
-Happy coding ✨
