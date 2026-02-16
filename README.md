@@ -147,6 +147,4 @@ If you like this project:
 
 Every bit of support helps the project grow.
 
----
 
-Happy coding ✨
