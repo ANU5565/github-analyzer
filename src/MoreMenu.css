@@ -1,0 +1,75 @@
+/* 🍎 floating button */
+.more-menu-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+
+  width: 48px;
+  height: 48px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 22px;
+  cursor: pointer;
+
+  backdrop-filter: blur(20px);
+  background: rgba(255,255,255,0.7);
+
+  border-radius: 14px;
+  border: 1px solid rgba(0,0,0,0.06);
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+
+  transition: all 0.25s ease;
+}
+
+.more-menu-btn:hover {
+  transform: translateY(-3px);
+}
+
+/* 🍎 sidebar panel */
+.sidebar-menu {
+  position: fixed;
+  top: 0;
+  left: -260px;
+
+  width: 240px;
+  height: 100vh;
+
+  padding: 80px 20px;
+
+  backdrop-filter: blur(20px);
+  background: rgba(255,255,255,0.75);
+
+  border-right: 1px solid rgba(0,0,0,0.06);
+
+  transition: left 0.35s ease;
+}
+
+.sidebar-menu.active {
+  left: 0;
+}
+
+/* buttons */
+.sidebar-menu button {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+
+  border-radius: 12px;
+  border: none;
+
+  background: rgba(255,255,255,0.7);
+
+  cursor: pointer;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+
+  transition: all 0.2s ease;
+}
+
+.sidebar-menu button:hover {
+  transform: translateY(-2px);
+}

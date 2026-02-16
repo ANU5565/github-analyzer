@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Apple font -->
+    <link href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <!-- favicon -->
+    <link rel="icon" href="/logo.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>github-analyzer</title>
+
+    <!-- ✅ Global CSS + footer styling -->
+    <style>
+      /* reset */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
+
+        /* smooth Apple text */
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+
+        min-height: 100vh;
+
+        /* soft background */
+        background: linear-gradient(
+          135deg,
+          #f6f8fb,
+          #e9eef5,
+          #ffffff
+        );
+
+        color: #1d1d1f;
+      }
+
+      /* footer helper style (used in React footer) */
+      .footer {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 40px;
+        color: rgba(0, 0, 0, 0.6);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
