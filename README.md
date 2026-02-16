@@ -1,5 +1,18 @@
 # 🚀 GitHub Analyzer
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Frontend-blue?logo=react">
+<img src="https://img.shields.io/badge/Vite-Build-purple?logo=vite">
+<img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript">
+<img src="https://img.shields.io/badge/API-GitHub-black?logo=github">
+<img src="https://img.shields.io/badge/Status-Active-success">
+<img src="https://img.shields.io/badge/Contributions-Welcome-orange">
+<img src="https://img.shields.io/badge/License-MIT-green">
+
+</p>
+
+
 GitHub Analyzer is a modern web app that explores and visualizes GitHub user profiles in a clean, interactive way. It helps you quickly understand user stats, repositories, and activity using a smooth glassmorphism-inspired interface.
 
 This project is built as both a practical tool and a learning playground for experimenting with frontend development, API integration, and UI design.
