@@ -1,16 +1,111 @@
-# React + Vite
+# 🚀 GitHub Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React + Vite web app that analyzes GitHub user profiles and displays useful insights like repositories, stats, and activity — wrapped in a smooth glassmorphism UI.
 
-Currently, two official plugins are available:
+Built to explore GitHub data in a clean and interactive way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 Search any GitHub user
+- 📊 View profile stats
+- ⭐ Repository overview
+- Smooth glassmorphism UI
+- Responsive modern design
+- Fast Vite-powered frontend
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React
+- Vite
+- Framer Motion
+- GitHub API
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/github-analyzer.git
+cd github-analyzer
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you have ideas, UI improvements, features, or bug fixes:
+
+👉 Fork the repo  
+👉 Create a branch  
+👉 Submit a pull request  
+
+Even small improvements help make this project better.
+
+Let’s build something awesome together 🚀
+
+---
+
+## 💡 Ideas for Contribution
+
+- UI polish & animations
+- Performance optimization
+- GitHub data visualizations
+- Accessibility improvements
+- Mobile UI enhancements
+- Feature suggestions
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+---
+
+## ❤️ Credits
+
+Designed & built by **Anu**
+
+Thanks to the open-source community for inspiration.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+👉 Star the repository  
+👉 Share feedback  
+👉 Contribute ideas  
+
+Every bit helps grow the project!
+
+---
+
+Happy coding ✨
