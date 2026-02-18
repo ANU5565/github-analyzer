@@ -143,7 +143,7 @@ This project is licensed under the MIT License.
 
 ## ❤️ Credits
 
-Designed & built by **Anu**
+Designed & built by **Anu❤️**
 
 Inspired by modern UI trends and open-source collaboration.
 
