@@ -158,6 +158,6 @@ If you like this project:
 - Suggest improvements
 - Contribute features
 
-Every bit of support helps the project grow.
+
 
 
