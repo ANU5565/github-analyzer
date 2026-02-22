@@ -129,9 +129,9 @@ Let’s build something awesome together 🚀
 - UI theme customization
 - Performance optimizations
 - Extended GitHub insights
-- Mobile experience improvements
+- Mobile experience improvements.
 
-More ideas are coming soon!
+More ideas are coming soon!  
 
 ---
 
