@@ -145,7 +145,7 @@ This project is licensed under the MIT License.
 
 Designed & built by **Anu with ❤️**
 
-Inspired by modern UI trends and open-source collaboration.
+Inspired by modern UI trends and open-source collaboration...
 
 ---
 
