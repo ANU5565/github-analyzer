@@ -34,8 +34,6 @@
 .sidebar-menu.active {
   left: 0;
 }
-
-/* buttons */
 .sidebar-menu button {
   width: 100%;
   padding: 12px;
