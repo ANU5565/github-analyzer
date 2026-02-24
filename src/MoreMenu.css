@@ -23,20 +23,14 @@
   position: fixed;
   top: 0;
   left: -260px;
-
   width: 240px;
   height: 100vh;
-
   padding: 80px 20px;
-
   backdrop-filter: blur(20px);
   background: rgba(255,255,255,0.75);
-
   border-right: 1px solid rgba(0,0,0,0.06);
-
   transition: left 0.35s ease;
 }
-
 .sidebar-menu.active {
   left: 0;
 }
