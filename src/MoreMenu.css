@@ -14,15 +14,11 @@
   border-radius: 14px;
   border: 1px solid rgba(0,0,0,0.06);
   box-shadow: 0 6px 18px rgba(0,0,0,0.1);
-
   transition: all 0.25s ease;
 }
-
 .more-menu-btn:hover {
   transform: translateY(-3px);
 }
-
-/* 🍎 sidebar panel */
 .sidebar-menu {
   position: fixed;
   top: 0;
