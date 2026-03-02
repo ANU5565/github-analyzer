@@ -37,7 +37,7 @@ The interface is designed to feel intuitive — just explore and click around.
 
 ---
 
-## ✨ Features
+## ✨ Features...
 
 - Search GitHub users instantly
 - View profile statistics
