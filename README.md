@@ -122,7 +122,7 @@ Let’s build something awesome together 🚀
 
 ---
 
-## 💡 Future Enhancements
+## 💡 Future Enhancements...
 
 - Advanced analytics dashboard
 - Repository filters
